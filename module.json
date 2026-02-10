@@ -59,7 +59,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/paulcheeba/weather-reports",
-  "manifest": "https://github.com/Wenneker/weather-reports/releases/latest/download/module.json",
+  "url": "https://github.com/Wenneker/weather-reports",
+  "manifest": "https://raw.githubusercontent.com/Wenneker/weather-reports/refs/heads/main/module.json",
   "download": "https://github.com/Wenneker/weather-reports/archive/refs/tags/V1.0.121.zip"
 }
